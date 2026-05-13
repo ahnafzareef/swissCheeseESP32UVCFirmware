@@ -1,0 +1,25 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/chrisgreening/esp/esp-idf",
+  "idf.pythonInstallPath": "/Users/chrisgreening/.pyenv/shims/python",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.port": "/dev/tty.usbmodem1101",
+  "idf.toolsPath": "/Users/chrisgreening/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "clangd.path": "/Users/chrisgreening/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=/Users/chrisgreening/Work/projects/usb_uvc/webcam/build"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "esp_camera.h": "c"
+  },
+  "idf.currentSetup": "C:\\esp\\v6.0.1\\esp-idf",
+  "idf.portWin": "COM9"
+}

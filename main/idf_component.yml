@@ -1,0 +1,5 @@
+dependencies:
+  espressif/led_strip: ^3.0.0
+  espressif/esp32-camera: ^2.1.4
+  espressif/usb_device_uvc: ^1.2.0
+  espressif/usb: '*'
